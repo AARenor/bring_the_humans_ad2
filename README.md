@@ -1,5 +1,6 @@
-![make.fun bounty badge](https://make.fun/badge/bring-the-humans-03.svg)
-![rank](https://make.fun/badge/bring-the-humans-03/AARenor/bring_the_humans_ad2/rank.svg)
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/AARenor/bring_the_humans_ad2/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/AARenor/bring_the_humans_ad2/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
 
 # bring-the-humans-03: a TikTok ad for make.fun
 
